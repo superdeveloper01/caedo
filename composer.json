@@ -1,0 +1,8 @@
+{
+    "config": {
+        "vendor-dir": "##VENDOR"
+    },
+    "require": {
+        "caedo/framework": "1.*"
+    }
+}

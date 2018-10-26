@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "14ff0b88360910417eb5f8100366b12e",
+    "packages": [
+        {
+            "name": "caedo/framework",
+            "version": "1.0.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kananlanginhooper/Caedo.git",
+                "reference": "b420ed37c2eb48071a1d411314bd2324847328b0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kananlanginhooper/Caedo/zipball/b420ed37c2eb48071a1d411314bd2324847328b0",
+                "reference": "b420ed37c2eb48071a1d411314bd2324847328b0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPLv2"
+            ],
+            "authors": [
+                {
+                    "name": "Kanan Langin-Hooper",
+                    "email": "Kanan.LanginHooper@gmail.com",
+                    "homepage": "https://github.com/kananlanginhooper",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Caedo Framework Base for PHP",
+            "homepage": "https://github.com/kananlanginhooper/Caedo",
+            "keywords": [
+                "Caedo",
+                "Developer First",
+                "devops",
+                "php framework"
+            ],
+            "time": "2016-07-19 17:07:48"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
